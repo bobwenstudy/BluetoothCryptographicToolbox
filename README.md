@@ -8,7 +8,7 @@
 
 为了研究这一问题，最简单的办法就是将所有相关算法实现一遍，并了解各个算法的作用范围。为更好的分析其算法实现，本文采用python作为开发语言，对各个加密算法原理和其具体实现具体进行说明。
 
-项目测试代码地址：https://github.com/bobwenstudy/BluetoothCryptographicToolbox.git
+项目测试代码地址：[BluetoothCryptographicToolbox](https://github.com/bobwenstudy/BluetoothCryptographicToolbox)
 
 # 加密算法实现
 
